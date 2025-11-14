@@ -1,3 +1,5 @@
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 (function() {
     // Check if SweetAlert2 (Swal) is available, as the script relies on it.
     if (typeof Swal === 'undefined') {
